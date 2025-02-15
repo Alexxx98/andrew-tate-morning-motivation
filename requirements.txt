@@ -1,0 +1,8 @@
+APScheduler==3.11.0
+ffmpeg==1.4
+keyboard==0.13.5
+pygame==2.6.1
+pytz==2025.1
+tzdata==2025.1
+tzlocal==5.3
+yt-dlp==2025.1.26

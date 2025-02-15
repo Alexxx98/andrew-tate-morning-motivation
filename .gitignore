@@ -1,3 +1,4 @@
 tate_env
 *.pyc
 __pycache__
+ffmpeg
